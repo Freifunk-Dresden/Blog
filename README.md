@@ -6,11 +6,11 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
 
 > Falls du zu ungeduldig bist, erstelle bitte gerne einfach ein **[Issue](https://github.com/Freifunk-Dresden/Blog/issues)** mit deinem Text für den neuen Blog Eintrag". Wir erstellen dann daraus einen Beitrag. Aber **bitte** erst einmal diese **kurze Anleitung zuende lesen**. Es ist viel einfacher als es zuerst erscheinen mag :)
 
-### 1. Klicke einfach oben auf den Ordner `_posts` und führe dann folgende Schritte aus:
+### 1. Klicke einfach oben auf den Ordner [`_posts`](https://github.com/Freifunk-Dresden/Blog/tree/master/_posts) und führe dann folgende Schritte aus:
 
   - Logge dich in deinem Github Account ein (oder falls du einen eigenen Account ablehnst, benutze den Username: `ffdd-blogger`, Passwort: `08blogger15`)
   - Erstelle eine neue `.md` seite im ordner [`_posts`](https://github.com/Freifunk-Dresden/Blog/tree/master/_posts), drücke dazu rechts oben auf "Create new file":  
-     ![Create new file](https://i.stack.imgur.com/CpbDL.png)  
+     ![Create new file](https://raw.githubusercontent.com/Freifunk-Dresden/Blog/master/images/create_blog_post.png)
      (beim ersten mal wird dabei automatisch eine Kopie dieses Projekts in deinem Github erzeugt, in dem du ab dann arbeitest). 
   - Die Benennung der Datei muss dabei mit dem **Datum** beginnen, gefolgt von einem **Minus**, dann ein rein informativen **Teil der ignoriert wird** und dann **enden auf .md**, z.B. `2019-01-30-beschreibender-ignorierter-teil.md`
   - Der Inhalt der Datei muss anfangen mit den Zeilen:
