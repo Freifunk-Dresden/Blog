@@ -1,14 +1,15 @@
 # Freifunk-Dresden Blog
-Blog der Webseite http://www.freifunk-dresden.de/blog.html
+Blog der Webseite [https://www.freifunk-dresden.de/blog.html](https://www.freifunk-dresden.de/blog.html)
 
 Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog kannst du **direkt im Browser hier auf Github bearbeiten**.
 
 
-> Falls du zu ungeduldig bist, erstelle bitte gerne einfach ein **[Issue](https://github.com/Freifunk-Dresden/Blog/issues)** mit deinem Text für den neuen Blog Eintrag". Wir erstellen dann daraus einen Beitrag. Aber **bitte** erst einmal diese **kurze Anleitung zuende lesen**. Es ist viel einfacher als es zuerst erscheinen mag :)
+> Falls du zu ungeduldig bist, erstelle bitte gerne einfach ein **[Issue](https://github.com/Freifunk-Dresden/Blog/issues)** mit deinem Text für den neuen Blog Eintrag. Wir erstellen dann daraus einen Beitrag. Aber **bitte** erst einmal diese **kurze Anleitung zuende lesen**. Es ist viel einfacher als es zuerst erscheinen mag :)
+
+- Logge dich in deinem Github Account ein (oder falls du einen eigenen Account ablehnst, benutze den Username: `ffdd-blogger`, Passwort: `08blogger15`)
 
 ### 1. Klicke einfach oben auf den Ordner [`_posts`](https://github.com/Freifunk-Dresden/Blog/tree/master/_posts) und führe dann folgende Schritte aus:
 
-  - Logge dich in deinem Github Account ein (oder falls du einen eigenen Account ablehnst, benutze den Username: `ffdd-blogger`, Passwort: `08blogger15`)
   - Erstelle eine neue `.md` seite im ordner [`_posts`](https://github.com/Freifunk-Dresden/Blog/tree/master/_posts), drücke dazu rechts oben auf "Create new file":  
      ![Create new file](https://raw.githubusercontent.com/Freifunk-Dresden/Blog/master/images/create_blog_post.png)
      (beim ersten mal wird dabei automatisch eine Kopie dieses Projekts in deinem Github erzeugt, in dem du ab dann arbeitest). 
@@ -28,4 +29,4 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
 
 ### 2. Wähle dann unten "Propose new file"
 ### 3. erstelle einen "Pull Request"
-Wenn du fertig bist, erstelle einen "Pull Request" mit dem grünen Symbol, dadurch wird ein "Pull Request Issue" erstellt, in dem ein anderer Mitarbeiter des ffki-blog Projekts deine Änderungen noch einmal anschauen kann und dann freigeben.
+Wenn du fertig bist, erstelle einen "Pull Request" mit dem grünen Symbol, dadurch wird ein "Pull Request Issue" erstellt, in dem ein Mitglied des Freifunk Dresden - Blog Projekts deine Änderungen noch einmal anschauen kann und dann freigeben.
