@@ -1,5 +1,5 @@
 # Freifunk-Dresden Blog
-Blog der Webseite [https://www.freifunk-dresden.de/blog.html](https://www.freifunk-dresden.de/blog.html)
+Blog der Webseite [https://blog.freifunk-dresden.de/](https://blog.freifunk-dresden.de/)
 
 Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog kannst du **direkt im Browser hier auf Github bearbeiten**.
 
