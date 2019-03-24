@@ -11,16 +11,18 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
 ### 1. Klicke einfach oben auf den Ordner [`_posts`](https://github.com/Freifunk-Dresden/Blog/tree/master/_posts) und führe dann folgende Schritte aus:
 
   - Erstelle eine neue `.md` seite im ordner [`_posts`](https://github.com/Freifunk-Dresden/Blog/tree/master/_posts), drücke dazu rechts oben auf "Create new file":  
-     ![Create new file](https://raw.githubusercontent.com/Freifunk-Dresden/Blog/master/images/create_blog_post.png)
+     ![Create new file](https://raw.githubusercontent.com/Freifunk-Dresden/Blog/master/images_blog/create_blog_post.png)
      (beim ersten mal wird dabei automatisch eine Kopie dieses Projekts in deinem Github erzeugt, in dem du ab dann arbeitest). 
-  - Die Benennung der Datei muss dabei mit dem **Datum** beginnen, gefolgt von einem **Minus**, dann ein rein informativen **Teil der ignoriert wird** und dann **enden auf .md**, z.B. `2019-01-30-beschreibender-ignorierter-teil.md`
+  - Die Benennung der Datei muss dabei mit dem **Datum** (JJJJ-MM-TT) beginnen, gefolgt von einem **Minus**, dann ein rein informativen **Teil der ignoriert wird** und dann **enden auf .md**, z.B. `2019-01-30-beschreibender-ignorierter-teil.md`
   - Der Inhalt der Datei muss anfangen mit den Zeilen:
  ```
  ---
  layout: post
  title: Hier der Titel deiner neuen Seite
  ---
+
  Hier Der Text für deinen neuen Blog Eintrag
+
  ```
   - Formatierungen können mit den Knöpfen über dem Eingabefeld erstellt werden
   - in dem Reiter "Preview changes" kannst du jederzeit überprüfen, wie dein Post aussehen würde.

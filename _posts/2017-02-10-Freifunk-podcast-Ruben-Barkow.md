@@ -12,4 +12,4 @@ Ruben Barkow vom Verein Freifunk Kiel erläuterte mit uns im Gespräch, was die 
  <a href="/downloads/magazin_nms_2017_02_10___04_freifunk.mp3">/downloads/magazin_nms_2017_02_10___04_freifunk.mp3</a>
 </audio>
 
-Quelle: am 10. Februar 2017 auf <a href="https://freiesradio-nms.de/2017/freifunk-zugang-zum-internet-fuer-alle/">https://freiesradio-nms.de/2017/freifunk-zugang-zum-internet-fuer-alle/</a>
+Quelle: am 10. Februar 2017 auf <a href="https://freiesradio-nms.de/2017/freifunk-zugang-zum-internet-fuer-alle/" target="_blank">https://freiesradio-nms.de/2017/freifunk-zugang-zum-internet-fuer-alle/</a>
