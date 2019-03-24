@@ -26,7 +26,8 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
  ```
   - Formatierungen können mit den Knöpfen über dem Eingabefeld erstellt werden
   - in dem Reiter "Preview changes" kannst du jederzeit überprüfen, wie dein Post aussehen würde.
-  - optional: Bilder können in den ordner `images` hochgeladen werden, diese werden auf der Webseite unter `/images/blog/` verlinkt
+  - optional: Bilder können in den Ordner `images_blog` hochgeladen werden.
+  - optional: Media-Files können in den Ordner `downloads` hochgeladen werden.
   - optional: weitere Formatierungen findet man wenn man nach *"markdown cheat sheet"* sucht, z.B. https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### 2. Wähle dann unten "Propose new file"
