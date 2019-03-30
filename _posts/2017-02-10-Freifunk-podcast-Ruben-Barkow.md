@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Podcast Freifunk – Zugang zum Internet für Alle - Freies Radio Neumünster
+author: freiesradio-nms
+category: Sonstiges
 ---
 
 Zugang zum Internet? Man könnte meinen, heutzutage hat das doch jeder. Aber nein, nicht unbedingt. Flüchtlinge und Menschen, die von Providern als nicht solvent angesehen werden, bekommen oft genug keinen Zugang zum Internet. Damit sind sie leider auch von wichtigen Zugängen zur gesellschaftlichen Teilhabe abgeschnitten. Dass das nicht sein muss, beweist das Projekt Freifunk. Freifunk erlaubt, den Zugang zum Internet frei zu teilen, ohne damit ein finanzielles oder rechtliches Risiko einzugehen. Aber Freifunk ist noch viel mehr!

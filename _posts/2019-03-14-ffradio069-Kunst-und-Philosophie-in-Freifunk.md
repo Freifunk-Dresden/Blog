@@ -1,6 +1,8 @@
 ---
 layout: post
 title: ffradio069 - Kunst und Philosophie in Freifunk
+author: ffradio
+category: Sonstiges
 ---
 
 Neues aus dem Freifunk-Radio Podcast.<br/>
