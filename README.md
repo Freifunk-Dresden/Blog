@@ -19,6 +19,7 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
  ---
  layout: post
  title: Hier der Titel deiner neuen Seite
+ author:
  category: Sonstiges
  ---
 
@@ -27,6 +28,7 @@ Um einen neuen Beitrag zu erstellen brauchst du keine weitere Software. Das Blog
  ```
   - Formatierungen können mit den Knöpfen über dem Eingabefeld erstellt werden
   - in dem Reiter "Preview changes" kannst du jederzeit überprüfen, wie dein Post aussehen würde.
+  - Author: Das bist du dann sozusagen :)
   - **category: Stelle sicher das die Kategorie auch im Ordner `category` angelegt ist!**
   - optional: Bilder können in den Ordner `images_blog` hochgeladen werden.
   - optional: Media-Files können in den Ordner `downloads` hochgeladen werden.
