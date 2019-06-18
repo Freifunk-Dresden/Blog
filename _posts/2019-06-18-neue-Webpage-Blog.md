@@ -13,4 +13,4 @@ Lange haben wir auch überlegt, diskutiert, gelacht und gerätzelt.. Wie wir den
 Hier in unserem und deinem Blog erfährst du also nun zukünftig aktuelles von uns, über uns und ums uns.\\
 Das aller beste dabei kommt aber noch.. Du kannst einfach mitmachen!
 
-Es ist ganz einfach. Schau es dir in Ruhe an und mach mit. [Hier erfährst du wie man einen neuen Blogeintrag schreibt](https://github.com/Freifunk-Dresden/Blog#freifunk-dresden-blog)
+Es ist ganz einfach. Schau es dir in Ruhe an und mach mit. [Hier erfährst du wie man einen neuen Blogeintrag schreibt.](https://github.com/Freifunk-Dresden/Blog#freifunk-dresden-blog)

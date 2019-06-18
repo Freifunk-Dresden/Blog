@@ -1,16 +1,17 @@
 ---
 layout: post
-title: FFDD-Server update v1.0.6_fix5
-author:
+title: FFDD-Server Update v1.0.6_fix5
+author: Sven Kinne
 category: Firmware
 ---
 
 Ein neues Update für die Gateway Server ist erschienen.
 
-# Neuerungen:
-- fastd: add support to restrict any new connection to a server. should be used when server has too much connections and is overloaded. in this case we must change backbones in clients
+#### Neuerungen:
+- **fastd:** add support to restrict any new connection to a server. should be used when server has too much connections and is overloaded. in this case we must change backbones in clients
 
-**New */etc/nvram.conf* Option:**
+##### New *`/etc/nvram.conf`* Option:
+
 ```
 # to accept all in comming connection, set this to 0 or remove this line.
 # When set to 1, only already known connections are accepted. this may be used
