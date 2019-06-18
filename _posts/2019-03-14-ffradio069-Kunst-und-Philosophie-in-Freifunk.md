@@ -5,8 +5,7 @@ author: ffradio
 category: Sonstiges
 ---
 
-Neues aus dem Freifunk-Radio Podcast.<br/>
-Wir betrachten Freifunk aus anderen Perspektiven.
+Neues aus dem Freifunk-Radio Podcast - Freifunk aus anderen Perspektiven.
 
 zum Podcast: <a href="https://radio.freifunk.net/2019/03/13/ffradio069-kunst-und-philosophie-in-freifunk/" target="_blank">https://radio.freifunk.net/2019/03/13/ffradio069-kunst-und-philosophie-in-freifunk/</a>
 (vom 13.03.2019)
