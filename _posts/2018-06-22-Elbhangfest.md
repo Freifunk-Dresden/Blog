@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Elbhangfest Elbhangfest
+title: Elbhangfest
 author:
 category: Ereignisse
 ---
