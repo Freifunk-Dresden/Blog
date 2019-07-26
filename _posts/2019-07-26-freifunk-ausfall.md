@@ -5,6 +5,7 @@ author:
 category: News
 ---
 Seit dem 25.07.2019 gegen 17 Uhr liegt eine großflächige Störung unseres Freifunk-Netzwerks vor.
+Lösung siehe [Wiki](https://wiki.freifunk-dresden.de/index.php/Firmware_Fix:_gateway-check).
 
 Durch Probleme bei der Überprüfung der Internetkonnektivität können sich alle Knoten mit den Firmware-Versionen 5.x.x und 6.x.x nicht mehr mit unseren Freifunk-Servern verbinden. Wir arbeiten im Moment an einer Lösung um die Knoten schnellst möglich, wieder online zu bekommen. Leider lässt sich das Problem nicht aus der Ferne lösen. Die Knoten müssen vor Ort umkonfiguriert werden, damit die Verbindung wieder hergestellt werden kann.
 
