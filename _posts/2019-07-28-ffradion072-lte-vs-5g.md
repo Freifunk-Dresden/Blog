@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Freifunk Radio: Sendung 072: LTE vs 5G Netz
+title: Freifunk Radio - Sendung 072 - LTE vs 5G Netz
 author: Stephan Enderlein
 category: sonstiges
 hidden: true
