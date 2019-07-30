@@ -3,7 +3,6 @@ layout: post
 title: Freifunk Radio - Sendung 072 - LTE vs 5G Netz
 author: Stephan Enderlein
 category: sonstiges
-hidden: true
 ---
 
 <a href="https://radio.freifunk.net/2019/07/28/ffradio072-lte-vs-wlan/"><img alt="freifunk-radio.png" src="/images_blog/freifunk-radio_500x500.png" width="200" height="200"></a>
