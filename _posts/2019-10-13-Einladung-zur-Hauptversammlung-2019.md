@@ -14,7 +14,7 @@ Die Akkreditierung beginnt um 19:30 Uhr. Die Akkreditierung ist aber auch jederz
 
 Die vorläufige Tagesordnung ist wie folgt:
 
-19:30 Beginn der Akkreditierung\
+19:30 Beginn der Akkreditierung<br/>
 19:45 Beginn der Hauptversammlung
 
 - TOP 1 Eröffnung
