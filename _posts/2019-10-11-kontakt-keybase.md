@@ -7,10 +7,10 @@ category: News
 
 Hallo liebe:r Freifunker:in,
 
-kennst du schon "keybase.io"? Das ist auch so was wie ein Chat, komplett
-verschlüsselt, mit Datenspeicher (250 GB), Fit Repositories und vielen weiteren funktionen.
+kennst du schon "keybase.io"? Das ist eine App mit (Gruppen)-Chat, komplett
+verschlüsselt, mit Datenspeicher (250 GB), Git-Repositories und vielen weiteren funktionen.
 
-keybase gibt es als APP und für Linux/Windows/Mac als eigenständiges Programm.
+Keybase gibt es als App und für Linux/Windows/Mac als eigenständiges Programm.
 
 Es gibt uns nun als Gruppe "freifunk_dresden" dort. Diese hat weitere
 Unterteams (Core,Verein,..). Desweiteren haben wir auch einige Gruppen-Chats wie zb. #Sprechstunde und #Support.
