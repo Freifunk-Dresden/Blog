@@ -14,13 +14,15 @@ Die Akkreditierung beginnt um 19:30 Uhr. Die Akkreditierung ist aber auch jederz
 
 Die vorläufige Tagesordnung ist wie folgt:
 
-19:30 Beginn der Akkreditierung
+19:30 Beginn der Akkreditierung\
 19:45 Beginn der Hauptversammlung
-• TOP 1 Eröffnung
-• TOP 2 Wahl des Versammlungsleiters
-• TOP 3 Wahl des Protokollanten
-• TOP 4 Abstimmung der Tagesordnung
-• TOP 5 sonstige Anträge
+
+- TOP 1 Eröffnung
+- TOP 2 Wahl des Versammlungsleiters
+- TOP 3 Wahl des Protokollanten
+- TOP 4 Abstimmung der Tagesordnung
+- TOP 5 sonstige Anträge
+
 Ende gegen 21:00 Uhr
 
 Satzungsänderungsanträge müssen bis zum 12.11.2018 um 23:59 Uhr beim
