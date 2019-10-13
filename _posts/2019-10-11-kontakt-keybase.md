@@ -17,7 +17,7 @@ Unterteams (Core,Verein,..). Desweiteren haben wir auch einige Gruppen-Chats wie
 
 Schau vorbei wir warten schon auf dich ;)
 
-https://keybase.io/
+[https://keybase.io/](https://keybase.io/)
 
-unser Team Profil:
-https://keybase.io/team/freifunk_dresden
+unser Team Profil:<br />
+[https://keybase.io/team/freifunk_dresden](https://keybase.io/team/freifunk_dresden)
