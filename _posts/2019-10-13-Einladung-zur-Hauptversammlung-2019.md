@@ -2,7 +2,7 @@
 layout: post
 title: Einladung zur Hauptversammlung 2019
 author:
-category: Sonstiges
+category: News
 ---
 
 Die Hauptversammlung findet am Mittwoch, den 13.11.2019 im Rosenwerk,
