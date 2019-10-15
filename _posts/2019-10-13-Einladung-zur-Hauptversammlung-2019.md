@@ -25,7 +25,7 @@ Die vorläufige Tagesordnung ist wie folgt:
 
 Ende gegen 21:00 Uhr
 
-Satzungsänderungsanträge müssen bis zum 12.11.2018 um 23:59 Uhr beim
+Satzungsänderungsanträge müssen bis zum 12.11.2019 um 23:59 Uhr beim
 Vorstand eingegangen sein. Dazu ist bis auf Weiteres die Adresse vorstand@freifunk-dresden.de zu benutzen.
 
 Wichtig ist, dass bei gestellten Anträgen der Antragsteller erkennbar ist! Bitte Klarnamen verwenden. Für sonstige Anträge gelten keine Fristen, diese können direkt vor Ort gestellt werden. Wir freuen uns aber sehr darüber, wenn auch diese vorher bekannt sind.
