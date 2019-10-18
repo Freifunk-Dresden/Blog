@@ -5,7 +5,7 @@ author:
 category: Ereignisse
 ---
 
-[![Datei:Datenspuren 2017 Logo PNG.png](https://wiki.freifunk-dresden.de/images/1/10/Datenspuren_2017_Logo_PNG.png)](https://cloud.freifunk-dresden.de/index.php/s/fchV41PQXO3ofBJ)
+[![Datei:Datenspuren 2017 Logo PNG.png](/images_blog/Datenspuren_2017_Logo_PNG.png)](https://cloud.freifunk-dresden.de/index.php/s/fchV41PQXO3ofBJ)
 
 Wir sind wieder bei den [Datenspuren](https://datenspuren.de/2017/) vom 21.-22.10.2017 in den [Technischen Sammlungen Dresden](https://datenspuren.de/2017/location.html)!
 
