@@ -9,9 +9,9 @@ Der Freifunk Dresden Verein wurde mit 13 Gründungsmitgliedern im Rosenwerk gegr
 
 ## Zeitstrahl
 
-| 05.07.2016 | Registereintrag | Freifunk Dresden e.V. Bekannt gemacht am: 05.07.2016 18:30 Uhr<br>**Amtsgericht Dresden Aktenzeichen:** VR 9705 |
-| 23.03.2016 | Vorstandswahl | Gewählt wurde jeweils einstimmig mit 13 Stimmen, als:<br>**Vorsitzender:** Mirko Tomaschek, **Stellvertreter:** Diego Jahn und **Schatzmeister:** Michael Bauschke |
-| 23.03.2016 | Vereinsgründung | An diesem Tage trafen sich 13 Menschen um den Verein Freifunk Dresden zu gründen. Nach einer Aussprache zur Vereinsgründung und der Diskussion des Satzungsentwurfes, wurde der Vereinsvorstand gewählt. |
+* 05.07.2016 - Registereintrag<br>Freifunk Dresden e.V. Bekannt gemacht am: 05.07.2016 18:30 Uhr<br>**Amtsgericht Dresden Aktenzeichen:** VR 9705
+* 23.03.2016 - Vorstandswahl<br>Gewählt wurde jeweils einstimmig mit 13 Stimmen, als:<br>**Vorsitzender:** Mirko Tomaschek, **Stellvertreter:** Diego Jahn und **Schatzmeister:** Michael Bauschke
+* 23.03.2016 - Vereinsgründung<br>An diesem Tage trafen sich 13 Menschen um den Verein Freifunk Dresden zu gründen. Nach einer Aussprache zur Vereinsgründung und der Diskussion des Satzungsentwurfes, wurde der Vereinsvorstand gewählt.
 
 ![(GruendungFreifunkDresdenVerein.png)](https://wiki.freifunk-dresden.de/images/c/c3/GruendungFreifunkDresdenVerein.png)
 
