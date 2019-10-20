@@ -13,7 +13,7 @@ Der Freifunk Dresden Verein wurde mit 13 Gründungsmitgliedern im Rosenwerk gegr
 * 23.03.2016 - Vorstandswahl<br>Gewählt wurde jeweils einstimmig mit 13 Stimmen, als:<br>**Vorsitzender:** Mirko Tomaschek, **Stellvertreter:** Diego Jahn und **Schatzmeister:** Michael Bauschke
 * 23.03.2016 - Vereinsgründung<br>An diesem Tage trafen sich 13 Menschen um den Verein Freifunk Dresden zu gründen. Nach einer Aussprache zur Vereinsgründung und der Diskussion des Satzungsentwurfes, wurde der Vereinsvorstand gewählt.
 
-![(GruendungFreifunkDresdenVerein.png)](/images_blog/GruendungFreifunkDresdenVerein.png)
+![(GruendungFreifunkDresdenVerein.png)](/downloads/GruendungFreifunkDresdenVerein.png)
 
 ## Ursprüngliche Einladung
 
