@@ -9,7 +9,7 @@ tags:
 - Hackathon
 - Konferenz
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/images/2019-10-25-freifunk-festival-2019/fff19.png" alt="Banner: Welcome in Oldenburg. Freifunk-Festival 1.-3.11.19. #FFF19." />
+<img src="{{ site.url }}{{ site.baseurl }}/downloads/fff19.png" alt="Banner: Welcome in Oldenburg. Freifunk-Festival 1.-3.11.19. #FFF19." />
 
 Kurzentschlossene aufgepasst: Kommendes Wochenende ist das Freifunk-Festival 2019. Unter dem Motto *ME{N}SHEN.ÖFTER.DEZENTRAL* findet vom 01. bis zum 03.11.2019 im [Mainframe Oldenburg](https://www.kreativitaet-trifft-technik.de/) eine Unkonferenz mit Hackathon statt.
 
