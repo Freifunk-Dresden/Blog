@@ -5,10 +5,10 @@ author: Sven Kinne
 category: firmware
 ---
 
-Wir haben soeben die neue FFDD-Server Version 1.1.0 freigegeben.
+Wir haben soeben die neue FFDD-Server Version 1.1.0 freigegeben.<br />
 Dieses ist kein automatisches Update und muss manuell ausgeführt werden.
 
-Alle Änderungen im Überblick findet ihr im CHANGELOG:
+Alle Änderungen im Überblick findet ihr im CHANGELOG:<br />
 [https://github.com/Freifunk-Dresden/ffdd-server/blob/master/CHANGELOG.md](https://github.com/Freifunk-Dresden/ffdd-server/blob/master/CHANGELOG.md)
 
 Um das Update nun durchzuführen brauchst du nur folgendes tun:
