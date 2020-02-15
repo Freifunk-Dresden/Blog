@@ -2,7 +2,7 @@
 layout: post
 title: FFDD-Server Update v1.1.0
 author: Sven Kinne
-category: firmware
+category: Firmware
 ---
 
 Wir haben soeben die neue FFDD-Server Version 1.1.0 freigegeben.<br />
