@@ -6,6 +6,7 @@ category: Firmware
 ---
 
 Eine neue stabile Firmware 6.0.15 ist verfügbar.
+
 Wer das Autoupdate aktiviert hat, braucht eigentlich nichts weiter zu tun, außer vielleicht mal nach den Routern zu schauen.
 Automatisch haben sich über Nacht die meisten Router schon aktualisiert.
 
