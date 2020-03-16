@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Sprechstunde am 16.03.2020 im #Rosenwerk abgesagt"
+title: Sprechstunde am 16.03.2020 im #Rosenwerk abgesagt
 author: Diego Jahn
 category:
+- News
 - Veranstaltungen
 tags:
 - Sprechstunde
