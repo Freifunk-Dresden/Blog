@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sprechstunden bis einschließlich 15.04.2020 ausschließlich online"
+title: "Sprechstunden bis einschließlich 15.04.2020 nur online"
 author: Diego Jahn
 category:
 - News
@@ -37,7 +37,7 @@ Alle anderen [Kommunikationskanäle](/kontakt/) stehen euch aber selbstverständ
 
 ### Update 18.03.2020, 15:00 Uhr
 
-Wir haben den Zeitraum, in dem die Sprechstunden ausfallen werden gemäß, der Allgemeinverfügung zum Verbot von Veranstaltungen aus der [Bekanntmachung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt vom 18. März 2020 (Az.: 15-5422/5)](https://www.sms.sachsen.de/download/SMS-AllgVerfuegung-Corona-Veranstaltungen.pdf) im Blog-Post aktualisiert. Dort heißt es unter Punkt 5 w:
+Wir haben den Zeitraum, in dem die Sprechstunden ausfallen werden, gemäß der Allgemeinverfügung zum Verbot von Veranstaltungen aus der [Bekanntmachung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt vom 18. März 2020 (Az.: 15-5422/5)](https://www.sms.sachsen.de/download/SMS-AllgVerfuegung-Corona-Veranstaltungen.pdf) im Blog-Post aktualisiert. Dort heißt es unter Punkt 5 w:
 
 >„Folgende Einrichtungen oder Angebote dürfen nicht für den Publikumsverkehr geöffnet werden: Zusammenkünfte in Vereinen und sonstigen Sport- und Freizeiteinrichtungen.“
 
