@@ -4,7 +4,9 @@ title: Einladung zur Hauptversammlung 2019
 author:
 category:
 - News
-#tags: Verein Hauptversammlung
+- Ereignisse
+- Veranstaltungen
+tags: Verein Hauptversammlung
 ---
 
 Die Hauptversammlung findet am Mittwoch, den 13.11.2019 im Rosenwerk,

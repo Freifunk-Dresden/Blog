@@ -3,6 +3,8 @@ layout: post
 title: "Sprechstunden bis einschließlich 15.04.2020 ausschließlich online"
 author: Diego Jahn
 category:
+- News
+- Ereignisse
 - Veranstaltungen
 tags:
 - Sprechstunde

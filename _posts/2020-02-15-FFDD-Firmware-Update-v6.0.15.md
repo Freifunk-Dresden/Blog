@@ -2,7 +2,9 @@
 layout: post
 title: FFDD-Firmware Update v6.0.15
 author: Stephan Enderlein
-category: Firmware
+category:
+- News
+- Firmware
 ---
 
 Eine neue stabile Firmware 6.0.15 ist verfügbar.
