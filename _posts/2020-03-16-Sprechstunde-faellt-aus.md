@@ -20,9 +20,9 @@ Die Sprechstunde wie gewohnt mit allen zusammen am runden Tisch geht in dieser F
 
 Wir haben einen Server mit *Jitsi Meet* aufgesetzt. Unter folgendem Link könnt ihr an der Sprechstunde via Videokonferenz teilnehmen:
 
-- [Online-Sprechstunde](https://sprechstunde.freifunk-dresden.de/Sprechstunde)
+- [Online-Sprechstunde](https://talk.freifunk-dresden.de/sprechstunde)
 
-Ihr benötigt dafür nur euren Browser. Eine Registrierung oder Installation von zusätzlicher Software ist nicht nötig, es sei denn, ihr möchtet mit einem Mobilgerät mitmachen. Apps für alle gängigen Plattformen findet ihr [hier](https://jitsi.org/downloads/). 
+Ihr benötigt dafür nur euren Browser. Eine Registrierung oder Installation von zusätzlicher Software ist nicht nötig, es sei denn, ihr möchtet mit einem Mobilgerät mitmachen. Apps für alle gängigen Plattformen findet ihr [hier](https://jitsi.org/downloads/).
 
 Wir halten euch hier und im Kanal ```#sprechstunde``` im [*Keybase*-Chat](https://keybase.io/team/freifunk_dresden/) weiter auf dem Laufenden.
 
