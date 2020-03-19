@@ -20,7 +20,7 @@ Die Sprechstunde wie gewohnt mit allen zusammen am runden Tisch geht in dieser F
 
 Wir haben einen Server mit *Nextcloud Talk* aufgesetzt. Unter folgendem Link könnt ihr unkompliziert komplett ohne Registrierung oder Installation irgendwelcher Apps, sondern einfach per Aufruf der Seite in eurem Browser an der Sprechstunde via Videokonferenz teilnehmen:
 
-- [Online-Sprechstunde](https://sprechstunde.freifunk-dresden.de/index.php/call/ocbo3ey9)
+- [Online-Sprechstunde](https://sprechstunde.freifunk-dresden.de/Sprechstunde)
 
 Wir halten euch hier und im Kanal ```#sprechstunde``` im [*Keybase*-Chat](https://keybase.io/team/freifunk_dresden/) weiter auf dem Laufenden.
 
