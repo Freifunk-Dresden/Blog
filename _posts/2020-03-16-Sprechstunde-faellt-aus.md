@@ -18,9 +18,11 @@ Die Sprechstunde wie gewohnt mit allen zusammen am runden Tisch geht in dieser F
 
 #### Freifunk-Sprechstunde im Netz
 
-Wir haben einen Server mit *Jitsi Meet* aufgesetzt. Unter folgendem Link könnt ihr unkompliziert komplett ohne Registrierung oder Installation irgendwelcher Apps, sondern einfach per Aufruf der Seite in eurem Browser an der Sprechstunde via Videokonferenz teilnehmen:
+Wir haben einen Server mit *Jitsi Meet* aufgesetzt. Unter folgendem Link könnt ihr an der Sprechstunde via Videokonferenz teilnehmen:
 
 - [Online-Sprechstunde](https://sprechstunde.freifunk-dresden.de/Sprechstunde)
+
+Ihr benötigt dafür nur euren Browser. Eine Registrierung oder Installation von zusätzlicher Software ist nicht nötig, es sei denn, ihr möchtet mit einem Mobilgerät mitmachen. Apps für alle gängigen Plattformen findet ihr [hier](https://jitsi.org/downloads/). 
 
 Wir halten euch hier und im Kanal ```#sprechstunde``` im [*Keybase*-Chat](https://keybase.io/team/freifunk_dresden/) weiter auf dem Laufenden.
 
@@ -47,4 +49,5 @@ Außerdem haben wir den Blog-Beitrag um die neue Möglichkeit, der Sprechstunde 
 
 ### Update 19.03.2020, 14:57 Uhr
 
-Wir schwenken nach den ersten Erfahrungen bei der gestrigen Sprechstunde von *Nextcloud Talk* nach *Jitsi Meet* um und haben den Link zur Online-Sprechstunde hier auf der Webseite aktualisiert.
+Wir schwenken nach den ersten Erfahrungen, die wir bei der gestrigen Sprechstunde gesammelt haben, von *Nextcloud Talk* nach *Jitsi Meet* um und haben den Link zur Online-Sprechstunde hier auf der Webseite aktualisiert.
+
