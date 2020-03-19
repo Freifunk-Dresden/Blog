@@ -18,7 +18,7 @@ Die Sprechstunde wie gewohnt mit allen zusammen am runden Tisch geht in dieser F
 
 #### Freifunk-Sprechstunde im Netz
 
-Wir haben einen Server mit *Nextcloud Talk* aufgesetzt. Unter folgendem Link könnt ihr unkompliziert komplett ohne Registrierung oder Installation irgendwelcher Apps, sondern einfach per Aufruf der Seite in eurem Browser an der Sprechstunde via Videokonferenz teilnehmen:
+Wir haben einen Server mit *Jitsi Meet* aufgesetzt. Unter folgendem Link könnt ihr unkompliziert komplett ohne Registrierung oder Installation irgendwelcher Apps, sondern einfach per Aufruf der Seite in eurem Browser an der Sprechstunde via Videokonferenz teilnehmen:
 
 - [Online-Sprechstunde](https://sprechstunde.freifunk-dresden.de/Sprechstunde)
 
@@ -44,3 +44,7 @@ Wir haben den Zeitraum, in dem die Sprechstunden ausfallen werden, gemäß der A
 Das Verbot tritt am 19.03.2020, 0.00 Uhr in Kraft und gilt zunächst bis einschließlich 20.04.2020.
 
 Außerdem haben wir den Blog-Beitrag um die neue Möglichkeit, der Sprechstunde in Form einer Video-Konferenz und unserem schon länger bestehenden *Keybase*-Chat ergänzt.
+
+### Update 19.03.2020, 14:57 Uhr
+
+Wir schwenken nach den ersten Erfahrungen bei der gestrigen Sprechstunde von *Nextcloud Talk* nach *Jitsi Meet* um und haben den Link zur Online-Sprechstunde hier auf der Webseite aktualisiert.
