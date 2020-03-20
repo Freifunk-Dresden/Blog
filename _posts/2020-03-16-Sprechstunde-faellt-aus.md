@@ -10,7 +10,7 @@ tags:
 - Sprechstunde
 - Rosenwerk
 ---
-Das [#Rosenwerk](https://konglomerat.org/) schließt aufgrund der aktuellen [SARS-CoV-2-Ausbreitung](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html) und der [Allgemeinverfügung des Landes Sachsen](https://www.sms.sachsen.de/download/SMS-AllgVerfuegung-Corona-Veranstaltungen.pdf) (Details siehe unten) seine Pforten für alle öffentlichen Veranstaltungen. Es wird vorerst bis einschließlich 15.04.2020 **keine physischen Freifunk-Sprechstunden** geben.
+Das [#Rosenwerk](https://konglomerat.org/) schließt aufgrund der aktuellen [SARS-CoV-2-Ausbreitung](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html) und der [Allgemeinverfügung des Landes Sachsen](/downloads/SMS-Allgemeinverfuegung-Corona-Veranstaltungen-bf.pdf) (Details siehe unten) seine Pforten für alle öffentlichen Veranstaltungen. Es wird vorerst bis einschließlich 15.04.2020 **keine physischen Freifunk-Sprechstunden** geben.
 
 Persönliche Treffen, z. B. für das Abholen von Routern, sind nach Rücksprache weiterhin möglich. Bitte überlegt euch vorher aber, ob das zur Zeit wirklich notwendig ist.
 
@@ -39,7 +39,7 @@ Alle anderen [Kommunikationskanäle](/kontakt/) stehen euch aber selbstverständ
 
 ### Update 18.03.2020, 15:00 Uhr
 
-Wir haben den Zeitraum, in dem die Sprechstunden ausfallen werden, gemäß der Allgemeinverfügung zum Verbot von Veranstaltungen aus der [Bekanntmachung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt vom 18. März 2020 (Az.: 15-5422/5)](https://www.sms.sachsen.de/download/SMS-AllgVerfuegung-Corona-Veranstaltungen.pdf) im Blog-Post aktualisiert. Dort heißt es unter Punkt 5 w:
+Wir haben den Zeitraum, in dem die Sprechstunden ausfallen werden, gemäß der Allgemeinverfügung zum Verbot von Veranstaltungen aus der [Bekanntmachung des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt vom 18. März 2020 (Az.: 15-5422/5)](/downloads/SMS-Allgemeinverfuegung-Corona-Veranstaltungen-bf.pdf) im Blog-Post aktualisiert. Dort heißt es unter Punkt 5 w:
 
 >„Folgende Einrichtungen oder Angebote dürfen nicht für den Publikumsverkehr geöffnet werden: Zusammenkünfte in Vereinen und sonstigen Sport- und Freizeiteinrichtungen.“
 
