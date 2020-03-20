@@ -3,6 +3,7 @@ layout: post
 title: "Elektronische Weihnachten am 19.12.2019 im #Rosenwerk"
 author: Diego Jahn
 category:
+- Ereignisse
 - Veranstaltungen
 tags:
 - Weihachten

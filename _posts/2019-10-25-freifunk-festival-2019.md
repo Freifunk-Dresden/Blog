@@ -3,6 +3,7 @@ layout: post
 title: Freifunk-Festival 2019
 author: Diego Jahn
 category:
+- Ereignisse
 - Veranstaltungen
 tags:
 - Oldenburg
