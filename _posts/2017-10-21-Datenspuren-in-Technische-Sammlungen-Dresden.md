@@ -2,7 +2,9 @@
 layout: post
 title: Datenspuren in Technische Sammlungen Dresden
 author:
-category: Ereignisse
+category:
+- Ereignisse
+- Veranstaltungen
 ---
 
 [![Datei:Datenspuren 2017 Logo PNG.png](/downloads/Datenspuren_2017_Logo_PNG.png)](https://cloud.freifunk-dresden.de/index.php/s/fchV41PQXO3ofBJ)

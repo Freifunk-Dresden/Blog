@@ -2,7 +2,9 @@
 layout: post
 title: Elbhangfest
 author:
-category: Ereignisse
+category:
+- Ereignisse
+- Veranstaltungen
 ---
 
 Dieses Jahr versuchen wir Internet aufs Elbhangfest zu bringen. Aktuell fehlt uns noch der notwendige Internetanschluss, da

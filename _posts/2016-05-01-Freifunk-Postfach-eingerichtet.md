@@ -2,7 +2,9 @@
 layout: post
 title: Freifunk-Postfach eingerichtet
 author:
-category: Ereignisse
+category:
+- News
+- Ereignisse
 ---
 
 > Freifunk Dresden e.V.\\

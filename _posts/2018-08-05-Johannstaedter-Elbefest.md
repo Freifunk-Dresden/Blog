@@ -2,7 +2,9 @@
 layout: post
 title: Johannstädter Elbefest
 author:
-category: Ereignisse
+category:
+- Ereignisse
+- Veranstaltungen
 ---
 
 Dieses Jahr war Freifunk Dresden auch auf dem Elbefest am Fährgarten mit einem Stand vertreten.\\

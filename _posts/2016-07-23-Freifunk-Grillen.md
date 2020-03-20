@@ -2,7 +2,9 @@
 layout: post
 title: Freifunk-Grillen
 author:
-category: Ereignisse
+category:
+- Ereignisse
+- Veranstaltungen
 ---
 
 Erstes kleines Freifunk-Grillen im Alaunpark in Dresden.

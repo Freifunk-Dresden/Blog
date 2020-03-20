@@ -2,7 +2,9 @@
 layout: post
 title: Vereinsgründung
 author:
-category: Ereignisse
+category:
+- News
+- Ereignisse
 ---
 
 Der Freifunk Dresden Verein wurde mit 13 Gründungsmitgliedern im Rosenwerk gegründet.
