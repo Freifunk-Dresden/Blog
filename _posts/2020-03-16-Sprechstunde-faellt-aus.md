@@ -22,7 +22,9 @@ Wir haben einen Server mit *Jitsi Meet* aufgesetzt. Unter folgendem Link könnt 
 
 - [Online-Sprechstunde](https://talk.freifunk-dresden.de/sprechstunde)
 
-Ihr benötigt dafür nur euren Browser. Eine Registrierung oder Installation von zusätzlicher Software ist nicht nötig, es sei denn, ihr möchtet mit einem Mobilgerät mitmachen. Apps für alle gängigen Plattformen findet ihr [hier](https://jitsi.org/downloads/).
+**Ihr benötigt dafür [zwingend](https://github.com/jitsi/jitsi-meet/issues/4758) eine aktuelle Version des Browsers [Chrome](https://www.google.com/chrome) oder [Chromium](https://www.chromium.org/getting-involved/download-chromium).** Firefox und andere Browser (egal ob unter Windows, macOS oder Linux) verursachen in Konferenzen Probleme (verzerrtes Audio, stockendes oder kein Video). Leider sorgt Firefox auch für eine schlechte Audio-/Videoqualität **bei allen Teilnehmerïnnen** der Konferenz!
+
+Eine Registrierung oder Installation weiterer Software ist nicht nötig, es sei denn, ihr möchtet mit einem Mobilgerät mitmachen. Apps für alle gängigen Plattformen findet ihr [hier](https://jitsi.org/downloads/).
 
 Wir halten euch hier und im Kanal ```#sprechstunde``` im [*Keybase*-Chat](https://keybase.io/team/freifunk_dresden/) weiter auf dem Laufenden.
 
@@ -51,3 +53,6 @@ Außerdem haben wir den Blog-Beitrag um die neue Möglichkeit, der Sprechstunde 
 
 Wir schwenken nach den ersten Erfahrungen, die wir bei der gestrigen Sprechstunde gesammelt haben, von *Nextcloud Talk* nach *Jitsi Meet* um und haben den Link zur Online-Sprechstunde hier auf der Webseite aktualisiert.
 
+### Update 01.04.2020, 18:20 Uhr
+
+Wir haben einen Hinweis hinzugefügt, dass als Browser für die Jitsi-Videokonferenz von allen Teilnehmerïnnen zwingend eine aktuelle Version von Chrome oder Chromium genutzt werden muss. Insbesondere verursacht Firefox leider Video-/Audioqualitäts-Probleme bei allen Teilnehmenden, d. h. selbst bei denen, die einen der empfohlenen Browser nutzen.
