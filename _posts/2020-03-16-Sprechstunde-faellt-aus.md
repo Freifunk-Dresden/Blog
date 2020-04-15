@@ -20,7 +20,7 @@ Die Sprechstunde wie gewohnt mit allen zusammen am runden Tisch geht in dieser F
 
 Wir haben einen Server mit *Jitsi Meet* aufgesetzt. Unter folgendem Link könnt ihr an der Sprechstunde via Videokonferenz teilnehmen:
 
-- [Online-Sprechstunde](https://talk.freifunk-dresden.de/sprechstunde)
+- [Online-Sprechstunde](https://meet.ffmuc.net/ffdd-sprechstunde)
 
 **Ihr benötigt dafür [zwingend](https://github.com/jitsi/jitsi-meet/issues/4758) eine aktuelle Version des Browsers [Chrome](https://www.google.com/chrome) oder [Chromium](https://www.chromium.org/getting-involved/download-chromium).** Firefox und andere Browser (egal ob unter Windows, macOS oder Linux) verursachen in Konferenzen Probleme (verzerrtes Audio, stockendes oder kein Video). Leider sorgt Firefox auch für eine schlechte Audio-/Videoqualität **bei allen Teilnehmerïnnen** der Konferenz!
 
