@@ -10,7 +10,7 @@ tags:
 - Sprechstunde
 - Rosenwerk
 ---
-Das [#Rosenwerk](https://konglomerat.org/) schließt aufgrund der aktuellen [SARS-CoV-2-Ausbreitung](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html) seine Pforten für alle öffentlichen Veranstaltungen. Es wird bis auf Weiteres **keine physischen Freifunk-Sprechstunden** geben – dafür als **Videokonferenz** und aktuell wöchentlich statt im Zweiwochenrythmus. \o/
+Das [#Rosenwerk](https://konglomerat.org/) schließt aufgrund der aktuellen [SARS-CoV-2-Ausbreitung](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html) seine Pforten für alle öffentlichen Veranstaltungen. Es wird bis auf Weiteres **keine physischen Freifunk-Sprechstunden** geben – dafür als **Videokonferenz** und [aktuell wöchentlich](/kontakt/) statt im Zweiwochenrythmus. \o/
 
 Persönliche Treffen, z. B. für das Abholen von Routern, sind nach Rücksprache trotzdem weiterhin möglich. Bitte überlegt euch vorher aber, ob das zur Zeit wirklich notwendig ist. Die Sprechstunde wie gewohnt mit allen zusammen am runden Tisch geht in dieser Form aktuell leider nicht.
 
@@ -57,4 +57,4 @@ Wir haben einen Hinweis hinzugefügt, dass als Browser für die Jitsi-Videokonfe
 
 ### Update 22.04.2020, 20:23 Uhr
 
-Wir haben noch einmal hervorgehoben, dass ihr uns jetzt via Videokonferenz wöchentlich statt wie gewohnt im Zweiwochenrythmus erreichen könnt (und natürlich rund um die Uhr über alle anderen Kanäle). Ein Ende der Situation zeichnet sich leider zur Zeit leider nicht ab, deshalb gibt es die Sprechstunde bis auf Weiteres ausschließlich online. Wir melden uns, sobald ihr wieder persönlich bei uns im #Rosenwerk vorbeischauen könnt.
+Wir haben noch einmal hervorgehoben, dass ihr uns jetzt via Videokonferenz wöchentlich statt wie gewohnt im Zweiwochenrythmus erreichen könnt (und natürlich rund um die Uhr über alle anderen Kanäle). Ein Ende der Pandemiesituation zeichnet sich leider zur Zeit leider nicht ab, deshalb gibt es die Sprechstunde bis auf Weiteres ausschließlich online. Wir melden uns, sobald ihr wieder persönlich bei uns im #Rosenwerk vorbeischauen könnt.
