@@ -10,6 +10,7 @@ tags:
 - Sprechstunde
 - Rosenwerk
 ---
+**Videokonferenz**: [talk.freifunk-dresden.de](https://talk.freifunk-dresden.de/sprechstunde)</br>
 Das [#Rosenwerk](https://konglomerat.org/) schließt aufgrund der aktuellen [SARS-CoV-2-Ausbreitung](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/nCoV_node.html) seine Pforten für alle öffentlichen Veranstaltungen. Es wird bis auf Weiteres **keine physischen Freifunk-Sprechstunden** geben – dafür als **Videokonferenz** und [aktuell wöchentlich](/kontakt/) statt im Zweiwochenrythmus. \o/
 
 Persönliche Treffen, z. B. für das Abholen von Routern, sind nach Rücksprache trotzdem weiterhin möglich. Bitte überlegt euch vorher aber, ob das zur Zeit wirklich notwendig ist. Die Sprechstunde wie gewohnt mit allen zusammen am runden Tisch geht in dieser Form aktuell leider nicht.
