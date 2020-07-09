@@ -39,9 +39,9 @@ Schema:
 
 Beispiel:
 
-* Benutzer: @benutzername:matrix.org
-* ffdd Raum: #ffdd:envs.net
-* ffdd Gruppe: +ffdd:envs.net
+* Benutzer: `@benutzername:matrix.org`
+* ffdd Raum: `#ffdd:envs.net`
+* ffdd Gruppe: `+ffdd:envs.net`
 
 ## Links
 [matrix.org](https://matrix.org/)<br />
