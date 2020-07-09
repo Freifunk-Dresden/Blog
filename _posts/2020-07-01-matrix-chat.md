@@ -7,8 +7,7 @@ category: News
 
 Hallo liebe:r Freifunker:in,
 
-kennst du schon [matrix.org](https://matrix.org/)? Das ist ein offenes Netzwerk für sichere, dezentrale Kommunikation.
-
+kennst du schon [matrix.org](https://matrix.org/)? Das ist ein offenes Netzwerk für sichere, dezentrale Kommunikation.<br />
 Matrix unterstützt mehrere verschiedene Clients. Der offiziele Client kommt von [Riot.im](https://about.riot.im/) und bietet vollen Feature Umfang.
 
 [Riot](https://about.riot.im/downloads) gibt es als Web-Client, App und für Linux/Windows/Mac als eigenständiges Programm.
@@ -32,7 +31,7 @@ Schau vorbei wir warten schon auf dich. ;)
 
 Schema:
 
-  <tag><id>:<instance>
+  `<tag><id>:<instance>`
 
 * Benutzer beginnen mit Etikett/Tag `@`
 * Chat-Räume (Channel), beginnen mit Etikett/Tag `#`
