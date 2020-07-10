@@ -18,12 +18,12 @@ Eine erweiterte Client Übersicht findest du auf [https://matrix.org/clients/](h
 
 Es gibt uns nun als Community-Gruppe `+ffdd:envs.net` dort. In dieser findet man alle unseren Themen spezifischen Räumlichkeiten als Übersicht.
 
-Unser "Allgemeiner" Chat Raum ist unter `#ffdd:envs.net` sowie `#ffdd:matrix.org` erreichbar.
+Unser "Allgemeiner" Chat Raum ist unter [`#ffdd:envs.net`](https://matrix.to/#/#ffdd:envs.net) sowie auch über `#ffdd:matrix.org` erreichbar.
 
 ![(ffdd_matrix_group.png)](/downloads/ffdd_matrix_group.png)
 
 Es gibt eine bequeme Seite, [matrix.to](https://matrix.to/), mit dieser können Sie URLs erstellen, die mit bestimmten Entitäten verknüpft sind.
-Wenn Sie diese Seiten besuchen, sehen Sie Links zur Kommunikation mit diesen Entitäten. Wenn Sie auf matrix.to `+ffdd:envs.net` eingeben, erhalten Sie die URL [https://matrix.to/#/+ffdd:envs.net](https://matrix.to/#/+ffdd:envs.net).
+Wenn Sie diese Seiten besuchen, sehen Sie Links zur Kommunikation mit diesen Entitäten. Wenn Sie auf matrix.to `+ffdd:envs.net` (FFDD Community) eingeben, erhalten Sie die URL [https://matrix.to/#/+ffdd:envs.net](https://matrix.to/#/+ffdd:envs.net).
 
 Schau vorbei wir warten schon auf dich. ;)
 
