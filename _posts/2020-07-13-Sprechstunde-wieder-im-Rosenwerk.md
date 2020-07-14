@@ -11,7 +11,7 @@ tags:
 - Rosenwerk
 ---
 
-Wir haben jetzt schon seit einiger Zeit unsere Sprechstunde in digitaler Form durchgeführt und uns öfter über Besuch von weiter entfernt lebendenden Freifunkenden erfreut. Nun ist es uns wieder möglich uns physisch, im zwei-Wochen Rhythmus, zu treffen. Daher laden wir euch ein uns zum nächsten Termin dem 22.07.2020 wieder im [Rosenwerk](https://www.freifunk-dresden.de/kontakt/) zu Besuchen! Die wöchentliche digitale Sprechstunde jeden Mittwoch bleibt dennoch erhalten.
+Wir haben jetzt schon seit einiger Zeit unsere Sprechstunde in digitaler Form durchgeführt und uns öfter über Besuch von weiter entfernt lebendenden Freifunkenden erfreut. Nun ist es uns wieder möglich uns physisch, im **zwei-Wochen Rhythmus**, zu treffen. Daher laden wir euch ein uns zum nächsten Termin dem **22.07.2020** wieder im **[Rosenwerk](https://www.freifunk-dresden.de/kontakt/)** zu Besuchen! Die wöchentliche [digitale Sprechstunde](https://talk.freifunk-dresden.de/sprechstunde) jeden Mittwoch bleibt dennoch erhalten.
 
 Wenn ihr uns also zur Sprechstunde besuchen wollt, so tut dies bitte nur wenn ihr keine Symptome von Covid 19 aufweist. Wenn mehrere Besucher gleichzeitig vorbei kommen, haben wir die Gelgenheit uns im großzügigen Innenhof ausbreiten. Eine Mund-Nase-Bedeckung ist zum Besuch nicht erforderlich.
 
