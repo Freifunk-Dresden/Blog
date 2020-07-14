@@ -15,10 +15,10 @@ Wir haben jetzt schon seit einiger Zeit unsere Sprechstunde in digitaler Form du
 
 Wenn ihr uns also zur Sprechstunde besuchen wollt, so tut dies bitte nur wenn ihr keine Symptome von Covid 19 aufweist. Wenn mehrere Besucher gleichzeitig vorbei kommen, haben wir die Gelgenheit uns im großzügigen Innenhof ausbreiten. Eine Mund-Nase-Bedeckung ist zum Besuch nicht erforderlich.
 
-Zum Schutze aller werden wir zur Sprechstunde eine Besucherlist führen in welche sich jeder beim Eintreffen einträgt. Diese ermöglicht es uns euch ggf. zu informieren.
+Zum Schutze aller werden wir zur Sprechstunde eine Besucherliste führen in welche sich jeder beim Eintreffen einträgt. Diese ermöglicht es uns euch ggf. zu informieren.
 
 Solltet ihr sonst noch fragen haben schreibt uns gerne eine E-Mail oder schaut digital vorbei. [=> zur Kontakt Seite](https://www.freifunk-dresden.de/kontakt/)
 
-Weitere Informationen zu unserer Sprechstunde findet ihr wie gewohnt im Wiki [https://wiki.freifunk-dresden.de/index.php/Freifunk-Sprechstunde](https://wiki.freifunk-dresden.de/index.php/Freifunk-Sprechstunde).
+Weitere Informationen zu unserer Sprechstunde findet ihr wie gewohnt im Wiki unter: [https://wiki.freifunk-dresden.de/index.php/Freifunk-Sprechstunde](https://wiki.freifunk-dresden.de/index.php/Freifunk-Sprechstunde).
 
 Auf baldiges Wiedersehen im Rosenwerk!
