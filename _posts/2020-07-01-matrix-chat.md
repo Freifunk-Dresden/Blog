@@ -8,9 +8,9 @@ category: News
 Hallo liebe:r Freifunker:in,
 
 kennst du schon [matrix.org](https://matrix.org/)? Das ist ein offenes Netzwerk für sichere, dezentrale Kommunikation.<br />
-Matrix unterstützt mehrere verschiedene Clients. Der offiziele Client kommt von [Riot.im](https://about.riot.im/) und bietet vollen [Feature](https://about.riot.im/features) Umfang.
+Matrix unterstützt mehrere verschiedene Clients. Der offiziele Client kommt von [element.io](https://element.io/get-started) und bietet vollen [Feature](https://element.io/features) Umfang.
 
-[Riot](https://about.riot.im/downloads) gibt es als Web-Client, App und für Linux/Windows/Mac als eigenständiges Programm.
+[element](https://element.io/get-started) gibt es als Web-Client, App und für Linux/Windows/Mac als eigenständiges Programm.
 
 Eine erweiterte Client Übersicht findest du auf [https://matrix.org/clients/](https://matrix.org/clients/).
 
@@ -45,4 +45,4 @@ Beispiel:
 
 ## Links
 [matrix.org](https://matrix.org/)<br />
-[riot.im](https://about.riot.im/)
+[element.io](https://element.io/)
