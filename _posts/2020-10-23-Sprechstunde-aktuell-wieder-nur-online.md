@@ -2,7 +2,13 @@
 layout: post
 title: "Sprechstunden aktuell wieder nur online"
 author: 
-category: News
+category:
+- News
+- Ereignisse
+- Veranstaltungen
+tags:
+- Sprechstunde
+- Rosenwerk
 ---
 
 Aktuell ist Corona auf dem Vormarsch, so auch in Dresden. Deshalb wurde eine fünf-farbige „Ampel“(?) eingeführt. Schlägt die Ampel in Form eines Tachometer in den roten Bereich, wird das  offensichtliche Leben eingeschränkt. Aktuell zeigt das Tachometer tiefes Rot an, d.h. unsere Sprechstunde findet ausschließlich nun nur noch Online statt.
