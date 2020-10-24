@@ -60,3 +60,11 @@ Wir haben einen Hinweis hinzugefügt, dass als Browser für die Jitsi-Videokonfe
 ### Update 22.04.2020, 20:23 Uhr
 
 Wir haben noch einmal hervorgehoben, dass ihr uns jetzt via Videokonferenz wöchentlich statt wie gewohnt im Zweiwochenrythmus erreichen könnt (und natürlich rund um die Uhr über alle anderen Kanäle). Ein Ende der Pandemiesituation zeichnet sich leider zur Zeit leider nicht ab, deshalb gibt es die Sprechstunde bis auf Weiteres ausschließlich online. Wir melden uns, sobald ihr wieder persönlich bei uns im #Rosenwerk vorbeischauen könnt.
+
+### Update 13.07.2020
+
+[Sprechstunde wieder im Rosenwerk](https://www.freifunk-dresden.de/news/2020/07/13/Sprechstunde-wieder-im-Rosenwerk.html)
+
+### Update 23.10.2020
+
+[Sprechstunde aktuell wieder nur online](https://www.freifunk-dresden.de/news/2020/10/23/Sprechstunde-aktuell-wieder-nur-online.html)
