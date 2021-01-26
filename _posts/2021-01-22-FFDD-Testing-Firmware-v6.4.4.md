@@ -9,14 +9,14 @@ category:
 
 Es steht eine neue TESTING Firmware 6.4.4 bereit, die vorausichtlich die Stable-Version wird.
 
-http://download.freifunk-dresden.de/firmware/testing/
+[https://download.freifunk-dresden.de/firmware/testing/](https://download.freifunk-dresden.de/firmware/testing/)
 
 Neuerungen sind:
-* Privates 5GHz wifi
+* Privates 5GHz Wifi
 * Ignoriere von Knotenverbindungen via GUI (optimiert Routing)
 * Support für Wireguard Backbone
 * Update Openwrt/Packages
 * Wifi Meshing 802.11s (2.4GHz und 5GHz indoor)
 * Aktuelle HTTPS Zertifikate welches die Knotenregistration absichern.
 * Syslog (GUI)
-* GUI Geschnwindigkeitsverbesserung für Anzeige
+* GUI Geschwindigkeitsverbesserung für Anzeige
