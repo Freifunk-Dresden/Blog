@@ -9,7 +9,7 @@ category:
 
 Eine neue offizielle Release steht nun wieder zur Verfügung.
 
-http://download.freifunk-dresden.de/firmware/7.0.1/
+[https://download.freifunk-dresden.de/firmware/7.0.1/](https://download.freifunk-dresden.de/firmware/7.0.1/)
 
 Es wurden verschiedene Anpassungen und neue Funktionen
 hinzugefügt, um die optimale Netzfunktionalität zu gewährleisten.
@@ -19,7 +19,7 @@ vorgenommen hat, auf die wir leider keinen Einfluss haben.
 Mit der neuen Version haben wir daher Änderungen diesbezüglich vorgenommen, um dieses Problem in Zukunft
 auszuschliessen.
 
-Viele Router nutzen noch eine sehr alte Firmware und werden nicht aktiv betreut. 
+Viele Router nutzen noch eine sehr alte Firmware und werden nicht aktiv betreut.
 Wir bitten *DRINGEND* darum, diese Router zu aktualisieren, da diese durch die Weiterentwicklung des Netzes
 nicht mehr funktionieren könnten. Wir müssen regelmässig Anpassungen am Netz vornehmen, und die Funktionalität
 aufrecht zu erhalten. Router mit alter Firwmare würden diese Entwicklung blockieren. Daher können wir
