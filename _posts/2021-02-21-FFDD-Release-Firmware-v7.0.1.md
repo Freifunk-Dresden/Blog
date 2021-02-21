@@ -6,7 +6,12 @@ category:
 - News
 - Firmware
 ---
-Eine neue offizielle Release steht nun wieder zur Verfügung. Es wurden verschiedene Anpassungen und neue Funktionen
+
+Eine neue offizielle Release steht nun wieder zur Verfügung.
+
+http://download.freifunk-dresden.de/firmware/7.0.1/
+
+Es wurden verschiedene Anpassungen und neue Funktionen
 hinzugefügt, um die optimale Netzfunktionalität zu gewährleisten.
 Bitte führt eine Aktualisierung der Router durch. Bei Firmware Versionen älter als 6.4.4 muss leider die Firmware
 manuell über die Oberfläche eingespielt werden, da Let's Encrypt (externer Zertifikatsanbieter) Änderungen
