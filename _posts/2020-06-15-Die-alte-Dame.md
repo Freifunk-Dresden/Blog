@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Die alte Dame
+title: Die Alte Dame
 author:
 category:
 - News
 ---
-In den Freifunk Dresden Standardeinstellungen passiert euch (und eurer Mutter/Vater) in unserem Netz NICHTS, in keinem Fall.
-Ihr seid durch unsere "Tore ins Internet" (Gateways) vor skrupellosen Firmen geschützt und könnt problemlos Freifunk anbieten. Eurer Internet einfach so freigeben ist in Deutschland auch im Jahre 2020 keine gute Idee.
+In den Freifunk-Dresden-Standardeinstellungen passiert euch in unserem Netz nichts, in keinem Fall.
+Ihr seid durch unsere „Tore ins Internet“ (Gateways) vor skrupellosen Firmen geschützt und könnt problemlos Freifunk anbieten. Eurer Internet einfach so freizugeben ist aber in Deutschland auch im Jahr 2020 keine gute Idee.
 
-Doch wiegt euch nicht in trügerischer Sicherheit indem ihr "euer" WLAN-Passwort weitergebt, eure Anschluss-IP ist für jedem im Internet sichtbar. Treibt damit jemand in deinem "gesicherten WLAN" Schindluder, seid ihr als Anschlussinhaber trotzdem haftbar. :(
+Ebenso ist es nicht angeraten, in trügerischer Sicherheit das WLAN-Passwort weiterzugeben, denn eure Anschluss-IP ist dann für jeden im Internet sichtbar. Treibt damit jemand in eurem „gesicherten“ WLAN Schindluder, seid ihr als Anschlussinhaber trotzdem haftbar. Wozu das führen kann, zeigt ein [aktuelles Urteil des Amtsgerichtes Köln](https://freifunkstattangst.de/2020/06/12/die-alte-dame/).
 
 Dann doch lieber Freifunk!
-
-[https://freifunkstattangst.de/2020/06/12/die-alte-dame/](https://freifunkstattangst.de/2020/06/12/die-alte-dame/)

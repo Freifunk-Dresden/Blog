@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Sprechstunden aktuell online"
+title: "Online-Sprechstunde"
+slug: online-sprechstunde
 author: Diego Jahn
 category:
 - News
