@@ -27,10 +27,10 @@ Die vorläufige Tagesordnung ist wie folgt:
 - TOP 5 Aussprache/Entlastung des Vorstandes
 - TOP 6 Satzungsänderungsanträge
 - TOP 7 Wahl des Vorstandes
-	- 7.1 Wahl des Vorsitzenden
-	- 7.2 Wahl des stellv. Vorsitzenden
-	- 7.3 Wahl des Schatzmeisters
-	- 7.4 Wahl der Beisitzer
+- 7.1 Wahl des Vorsitzenden
+- 7.2 Wahl des stellv. Vorsitzenden
+- 7.3 Wahl des Schatzmeisters
+- 7.4 Wahl der Beisitzer
 - TOP 8 sonstige Anträge
 Ende gegen 21:00 Uhr
 
