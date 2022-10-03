@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Testing Firmware 8.1.0
+title: Release Firmware 8.1.0
 author: Stephan Enderlein
 category:
 - News
