@@ -11,7 +11,7 @@ Es gibt nach langer Zeit eine neue Release Version
 
 Viele Verbesserungen und notwendige Anpassungen, um das Freifunk Netz in Dresden + Umgebung voranzutreiben, sind eingeflossen. Dabei mussten auch einige Anpassungen vorgenommen werden, die teilweise keine oder nur eingeschränkte Funktion von Router mit Firmware < 7.0.3 haben.
 
-Es wird **dringend** empfohlen, auf die aktuelle Firmware [8.1.0](https://download.freifunk-dresden.de/firmware/8.1.0/) u aktualisieren.
+Es wird **dringend** empfohlen, auf die aktuelle Firmware [8.1.0](https://download.freifunk-dresden.de/firmware/8.1.0/) zu aktualisieren.
 
 Änderungen seit der letzten Release 7.0.3:
 - upgrade openwrt 19->21
