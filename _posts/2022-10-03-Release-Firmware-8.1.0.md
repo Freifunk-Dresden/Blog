@@ -38,3 +38,10 @@ Es wird **dringend** empfohlen, auf die aktuelle Firmware [8.1.0](https://downlo
 - improve loading speed for GUI
 - sysinfo.json: add infos about wifi channel, wireguard.
 - support more routers
+
+
+**Hinweis zum Netgear R6220:** Es wurden bisher 2 Geräte gesehen, die nach dem Update kein 2.4 Ghz Wifi mehr haben. Das ist ein Fehler in Openwrt selbst, welcher bisher von der Communitiy nicht gelöst werden konnte. Ich habe für diesen Router daher das Autoupdate deaktiviert.
+
+Diese Router MÜSSEN manuell aktualisiert werden und geprüft werden, ob das wifi 2.4Ghz hoch kommt. Der Fehler zeigt sich recht schnell. Um aber die neuen Funktionen der 8.1.0 zu nutzen, müssen die Besitzer dieser Router prüfen, ob ihr Gerät von dem Fehler betroffen ist. \
+Viele Netgear R6220 laufen aber stabil mit der 8.1.0.
+
