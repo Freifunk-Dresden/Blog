@@ -25,8 +25,8 @@ Die vorläufige Tagesordnung ist wie folgt:
 - TOP 2 Wahl des Versammlungsleiters
 - TOP 3 Wahl des Protokollanten
 - TOP 4 Abstimmung der Tagesordnung
-- TOP 5 Satzungsänderungsanträge
-- TOP 6 sonstige Anträge
+- TOP 5 Aussprache/Entlastung des Vorstandes 
+- TOP 6 Satzungsänderungsanträge
 Ende gegen 21:00 Uhr
 
 Satzungsänderungsanträge müssen bis zum 07.10.2022 um 23:59 Uhr beim Vorstand eingegangen sein. Dazu ist bis auf Weiteres die Adresse vorstand@freifunk-dresden.de zu benutzen.
