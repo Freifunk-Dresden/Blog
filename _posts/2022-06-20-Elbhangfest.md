@@ -2,7 +2,9 @@
 layout: post
 title: Elbhangfest 24.06-26.06.2022
 author:
-category: Veranstaltungen
+category:
+- Ereignisse
+- Veranstaltungen
 ---
 
 Wir sind auch diese Jahr wieder vom 24.06 bis 26.06.2022 mit unserem Infostand auf dem Elbhangfest.
