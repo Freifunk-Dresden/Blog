@@ -32,7 +32,7 @@ Die vorläufige Tagesordnung ist wie folgt:
 - 7.2 Wahl des stellv. Vorsitzenden
 - 7.3 Wahl des Schatzmeisters
 - 7.4 Wahl der Beisitzer
-- TOP 8 sonstige Anträge
+- TOP 8 sonstige Anträge  
 Ende gegen 21:00 Uhr
 
 Satzungsänderungsanträge müssen bis zum 24.09.2021 um 23:59 Uhr beim Vorstand eingegangen sein. Dazu ist bis auf Weiteres die Adresse vorstand@freifunk-dresden.de zu benutzen.

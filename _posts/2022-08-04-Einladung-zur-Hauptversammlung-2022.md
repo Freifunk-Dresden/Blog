@@ -27,6 +27,7 @@ Die vorläufige Tagesordnung ist wie folgt:
 - TOP 4 Abstimmung der Tagesordnung
 - TOP 5 Aussprache/Entlastung des Vorstandes 
 - TOP 6 Satzungsänderungsanträge
+- TOP 7 Sonstige Anträge  
 Ende gegen 21:00 Uhr
 
 Satzungsänderungsanträge müssen bis zum 07.10.2022 um 23:59 Uhr beim Vorstand eingegangen sein. Dazu ist bis auf Weiteres die Adresse vorstand@freifunk-dresden.de zu benutzen.
@@ -38,3 +39,6 @@ Diego, Micha, Torsten, Markus und Sven
 
 
 [***Kalender Link***](https://mobilizon.envs.net/events/28d5e247-704b-4a4c-b398-461012adc524)
+___
+
+[**Protokoll**](https://raw.githubusercontent.com/Freifunk-Dresden/Dokumente/master/Protokolle/Archiv/2022/2022-10-08_Jahreshauptversammlung.pdf)
