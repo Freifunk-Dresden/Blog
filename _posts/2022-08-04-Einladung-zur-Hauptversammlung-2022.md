@@ -38,7 +38,7 @@ Viele Grüße
 Diego, Micha, Torsten, Markus und Sven
 
 
-[***Kalender Link***](https://mobilizon.envs.net/events/28d5e247-704b-4a4c-b398-461012adc524)
+[***Kalender Link***](https://mobilizon.envs.net/events/28d5e247-704b-4a4c-b398-461012adc524)  
 ___
 
 [**Protokoll**](https://raw.githubusercontent.com/Freifunk-Dresden/Dokumente/master/Protokolle/Archiv/2022/2022-10-08_Jahreshauptversammlung.pdf)
