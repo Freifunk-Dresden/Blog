@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Testing Firmware 8.1.5
+title: Release Router Firmware 8.1.5
 author: Stephan Enderlein
 category:
 - News
 - Firmware
 ---
-Firmware [8.1.5](https://download.freifunk-dresden.de/firmware/latest/).
+Release Router Firmware [8.1.5](https://download.freifunk-dresden.de/firmware/latest/).
 
 Diese Release Firmware beinhaltet weitere Verbesserungen. Sie soll in Kürze in
 eine neue Release führen.
