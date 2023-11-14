@@ -14,7 +14,7 @@ Diese Release Firmware beinhaltet ein Sicherheits-Update, welches die Sicherheit
 Änderungen seit der letzten Release (English):
 
 - LED
-  - wifi status LED (GW/Freifunk Status) is not static (instead of blinking)
+  - wifi status LED (GW/Freifunk Status) is now static (instead of blinking)
 - WiFi
   - add support for utf8 (emoji) in wifi scan
 - Openwrt 22
