@@ -13,7 +13,7 @@ tags:
 Hallo liebe:r Freifunker:in,
 
 hiermit laden wir Dich herzlich zur **Hauptversammlung des Freifunk Dresden e. V.** im Jahr 2024 ein!
-Die Hauptversammlung findet **am Samstag, den 09.11.2023** im Rosenwerk, Jagdweg 1-3, 01159 Dresden statt.
+Die Hauptversammlung findet **am Samstag, den 09.11.2024** im Rosenwerk, Jagdweg 1-3, 01159 Dresden statt.
 
 Getränke und Speisen sind selbst mitzubringen.
 Die Akkreditierung beginnt **um 19:30 Uhr**. Die Akkreditierung ist aber auch jederzeit während der Hauptversammlung möglich.
