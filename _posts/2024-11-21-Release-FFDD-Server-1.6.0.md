@@ -24,6 +24,6 @@ Dies enthält folgende Änderungen seit dem letzten Release 1.5.0:
 - cleanup unneeded stuff
 
 
-**Full Changelog**: [https://github.com/Freifunk-Dresden/ffdd-server/compare/T\_RELEASE\_v1.5.0...T\_RELEASE\_v1.6.0](https://github.com/Freifunk-Dresden/ffdd-server/compare/T\_RELEASE\_v1.5.0...T\_RELEASE\_v1.6.0)
+**Full Changelog**: [https://github.com/Freifunk-Dresden/ffdd-server/compare/T_RELEASE_v1.5.0...T_RELEASE_v1.6.0](https://github.com/Freifunk-Dresden/ffdd-server/compare/T_RELEASE_v1.5.0...T_RELEASE_v1.6.0)
 
 Alle Änderungen im Überblick findet ihr im [CHANGELOG](https://github.com/Freifunk-Dresden/ffdd-server/blob/T_RELEASE_v1.6.0/CHANGELOG.md).
