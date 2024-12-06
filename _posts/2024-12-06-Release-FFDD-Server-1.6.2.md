@@ -21,6 +21,7 @@ Nach der Installation der Packages sollte `freifunk-call` wieder wie gewohnt fun
 Änderungen im Überblick seit dem letzten Release 1.6.0 (enthält auch die Änderungen aus Version 1.6.1):
 
 - fix debian 11 installation
+- fix longstanding bug in 'freifunk-manuell-update' if the current pwd equal INSTALL_DIR
 - add config option to disable the speedtest plugin
 - update digitalcourage dns forwarder
 - update bind (dns) zonefiles
